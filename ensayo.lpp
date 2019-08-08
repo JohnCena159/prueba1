@@ -1,7 +1,7 @@
-Real A,B,C,D
+Real A,B,C
 inicio
 
-escriba "Multiplicacion de tres numeros"
+escriba "division de dos numeros"
 
 llamar nueva_linea
 
@@ -14,15 +14,10 @@ llamar nueva_linea
 escriba "Ingrese el segundo numero "
 Lea B
 
-escriba "Ingrese el tercer numero "
-lea c
+C<-A/B
 
 llamar nueva_linea
 
-D<-A*B*C
-
-llamar nueva_linea
-
-escriba "El producto de ", A, " por ", B, " por ", C," es: " ,D
+escriba "la division de ", A, " dividido ", B, " es: " ,C
 
 Fin
