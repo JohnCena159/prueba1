@@ -1,0 +1,28 @@
+Real A,B,C,D
+inicio
+
+escriba "Multiplicacion de tres numeros"
+
+llamar nueva_linea
+
+escriba "Ingrese el primer numero "
+
+lea A
+
+llamar nueva_linea
+
+escriba "Ingrese el segundo numero "
+Lea B
+
+escriba "Ingrese el tercer numero "
+lea c
+
+llamar nueva_linea
+
+D<-A*B*C
+
+llamar nueva_linea
+
+escriba "El producto de ", A, " por ", B, " por ", C," es: " ,D
+
+Fin
