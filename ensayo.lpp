@@ -1,7 +1,7 @@
 Real A,B,C
 inicio
 
-escriba "division de dos numeros"
+escriba "resta de dos numeros"
 
 llamar nueva_linea
 
@@ -14,10 +14,10 @@ llamar nueva_linea
 escriba "Ingrese el segundo numero "
 Lea B
 
-C<-A/B
+C<-A-B
 
 llamar nueva_linea
 
-escriba "la division de ", A, " dividido ", B, " es: " ,C
+escriba "la diferencia de ", A, " menos ", B, " es: " ,C
 
 Fin
